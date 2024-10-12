@@ -17,7 +17,7 @@
 Github 原生链接：
 
 ```
-https://raw.githubusercontent.com/obgnail/chinese-internet-is-dead/master/blocklist.txt
+https://raw.githubusercontent.com/kiFte/google_blacklist/refs/heads/master/blocklist.txt
 ```
 
 
