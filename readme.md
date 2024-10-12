@@ -1,6 +1,8 @@
 ## 简介
 
-**零误伤的黑名单列表**。列表中的网站都是我亲手点进去，确定是垃圾网站后加上去的。已经维护好几年了，零误伤。
+**个人用的黑名单列表**。
+这个黑名单列表是咱自己使用的，所以更新什么都会有点问题，想要直接用订阅的可以考虑这个地址：https://github.com/obgnail/chinese-internet-is-dead。
+咱列表中的内容基本都是从那复制过来的。
 
 
 
@@ -18,9 +20,4 @@ Github 原生链接：
 https://raw.githubusercontent.com/obgnail/chinese-internet-is-dead/master/blocklist.txt
 ```
 
-或者使用 CDN 加速（适合中国内陆用户）：
-
-```
-https://cdn.jsdelivr.net/gh/obgnail/chinese-internet-is-dead@master/blocklist.txt
-```
 
